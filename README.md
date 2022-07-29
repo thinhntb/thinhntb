@@ -1,6 +1,5 @@
-<!-- Trungquandev -->
 <a href="#" target="_blank">
-  <img src="svg/trungquandev.svg" width="1200" alt="trungquandev-official" />
+  <img src="svg/thinhntb.svg" width="1200" alt="thinhntb" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
@@ -43,8 +42,9 @@
 <br>
 
 <h2 align="center">👽 Where to find me 👽</h2>
-<br align="center">
+<br>
 <!-- https://icons8.com -->
+  <div align="center">
   <a href="https://www.facebook.com/thinh.ntb/" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="thinhntb-facebook" />
   </a>
